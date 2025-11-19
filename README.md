@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Canady+Mitchem!;Software+Developer+from+Kansas+City;Full‑Stack+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Canady+Mitchem!;Software+Developer+from+Kansas+City;Undergrad-Researcher;Lifelong+Learner)](https://git.io/typing-svg)
 
 ## About Me
 
