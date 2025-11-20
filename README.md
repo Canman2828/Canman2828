@@ -7,7 +7,7 @@ Hi! I'm **Canady Mitchem**, A Computer Engineering Student at the University of 
 ##  Tech Stack
 
 - **Languages:** JavaScript, Python, Java, C#, C
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS
+- **Frontend:** React, Next.js
 - **Backend:** Node.js
 - **Databases:** MongoDB
 - **DevOps / Cloud:** Git & GitHub, AWS
@@ -16,6 +16,7 @@ Hi! I'm **Canady Mitchem**, A Computer Engineering Student at the University of 
 ##  Noteworthy Projects
 
 - **[ShadowNotes](https://github.com/Canman2828/ShadowNotes):** ShadowNotes is a web extension that allows users to take notes directly on any webpage. Your notes are saved and can be revisited anytime you return to the page.
+- [Devine Draw:](https://github.com/Canman2828/Immersethebay)  A tower defense immersive Vr game made with Unity and C#
 - [FlutterQuest:](https://github.com/Canman2828/Butterfly-game)  A Virtural Reality butterfly Catching came made in Unity and C#
 - [Plant Suggester](https://github.com/Canman2828/TigerHacks24) Developed a Python-based application utilizing the Google Maps API to recommend suitable plants based on a user’s location
 
