@@ -34,6 +34,7 @@ I'm always open to collaborating on interesting projects and exchanging ideas.  
 
 - GitHub: [@Canman2828](https://github.com/Canman2828)
 - LinkedIn: [Canady Mitchem](https://www.linkedin.com/in/c-mitchem/)
+- Portfolio: [Personal Website](https://canadymitchem.com/)
 - Email: Csmhgc@umsystem.edu
 
 Thanks for stopping by!  
