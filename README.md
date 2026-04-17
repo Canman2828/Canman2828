@@ -41,6 +41,7 @@ I'm always open to collaborating on interesting projects and exchanging ideas.  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canman2828&layout=compact&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Canman2828&theme=radical" height="150"/>
 </p>
 
 Thanks for stopping by!  
