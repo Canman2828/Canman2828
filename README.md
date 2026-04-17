@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm **Canady Mitchem**, A Computer Science Student at the University of Missouri, PLA for into to VR, Undergraduate Researcher, Vice President of MUVR and Vr Developer. My passion for technology drives me to explore new tools and frameworks, contribute to open‑source, and continuously learn and grow.  Outside of coding, I emjoy listening to music and playing video games.
+Hi! I'm **Canady Mitchem**, A Computer Science Student at the University of Missouri, PLA for into to VR, Undergraduate Researcher, Vice President of MUVR, Vr Developer, and Software Engineer. My passion for technology drives me to explore new tools and frameworks, contribute to open‑source, and continuously learn and grow.  Outside of coding, I emjoy listening to music and playing video games.
 
 ##  Tech Stack
 
