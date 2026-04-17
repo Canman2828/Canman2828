@@ -36,5 +36,12 @@ I'm always open to collaborating on interesting projects and exchanging ideas.  
 - LinkedIn: [Canady Mitchem](https://www.linkedin.com/in/c-mitchem/)
 - Portfolio: [Personal Website](https://canadymitchem.com/)
 - Email: Csmhgc@umsystem.edu
+  
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Canman2828&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canman2828&layout=compact&theme=radical" height="150"/>
+</p>
 
 Thanks for stopping by!  
