@@ -19,6 +19,7 @@ Hi! I'm **Canady Mitchem**, A Computer Science Student at the University of Miss
 - [Devine Draw:](https://github.com/Canman2828/Immersethebay)  A tower defense immersive Vr game made with Unity and C#
 - [FlutterQuest:](https://github.com/Canman2828/Butterfly-game)  A Virtural Reality butterfly Catching came made in Unity and C#
 - [Plant Suggester](https://github.com/Canman2828/TigerHacks24) Developed a Python-based application utilizing the Google Maps API to recommend suitable plants based on a user’s location
+- [Guessity]([https://github.com/Canman2828/TigerHacks24](https://github.com/Canman2828/Webdev-final)) Guessify — a MERN-stack music game with daily challenges, friend battles, Spotify powered playlists, and open source.
 
 Feel free to explore my repositories to see more of my work.
 
